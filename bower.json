@@ -1,0 +1,17 @@
+{
+  "name": "api",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "sanazmemar <sanaz_meamar@gmail.com>"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
